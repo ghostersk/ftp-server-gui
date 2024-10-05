@@ -51,3 +51,5 @@ Pillow # optional if you do not use .ico file but other image format
    - it would require sudo to run on ports <1024 or you need to allow non sudo users to use port 21 ( port can be changed)
    - when the app is started as daemon it will not be stopped from gui, it must be killed
 
+##### contribution:
+FTP.png icon: <a href="https://www.flaticon.com/free-icons/ftp" title="ftp icons">Ftp icons created by andinur - Flaticon</a>
