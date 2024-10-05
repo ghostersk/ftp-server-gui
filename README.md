@@ -20,6 +20,7 @@ log_file = ftp_log.txt
 
 #### Requirements:
 ```
+# runs with newest Python 3.12.7
 PyQt5
 pyftpdlib
 
