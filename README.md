@@ -2,6 +2,7 @@
 - option to choose what folder is served by the server
 - option to select port ( ports bellow 1024 require permissions, unless already allowed )
 - simple authentication - default is: user   123
+- logging to the GUI and to a file ( file with timestamps )
 - with system tray icon to restore daemon FTP server after is minimized
 - it can run in background from launch if you set `run_as_daemon = 1` in `ftp-config.cfg`
 - simple connection from Explorer: `ftp://user:123@192.168.1.5` to access hosted files in RW mode
