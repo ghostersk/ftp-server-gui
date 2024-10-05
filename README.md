@@ -40,6 +40,7 @@ Pillow # optional if you do not use .ico file but other image format
 
 ### Windows building is simple as:
 `pyinstaller --onefile --windowed --add-data "ftp.png;." --icon=ftp.png ftp_gui.py`
+
 ![image](https://github.com/user-attachments/assets/b23c8caf-6eb2-49b3-87ea-bd0dcb0edb31)
 
 ### Issues:
